@@ -1,7 +1,7 @@
 {
-  "homepage": "https://1Danilka1.github.io/react-components-01",
   "name": "hw_1_react",
   "version": "0.1.0",
+  "homepage": "https://1Danilka1.github.io/react-components-01",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
